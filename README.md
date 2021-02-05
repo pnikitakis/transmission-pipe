@@ -1,5 +1,5 @@
 # transmission-pipe
-Reliable one-way FIFO pipe for transmitting data over UDP/IP. University project for Distributed Systems (Spring 2018).
+Reliable one-way FIFO pipe for transmitting data over UDP/IP. University project [no.1] for Distributed Systems (Spring 2018).
 
 ## Prerequisites
 Python 3.6+
